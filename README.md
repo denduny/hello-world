@@ -1,4 +1,4 @@
 # hello-world
 My first repository on github
 
-I love :pizza and :hamburger
+I love :pizza: and :hamburger:
